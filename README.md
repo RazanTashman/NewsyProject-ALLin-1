@@ -3,7 +3,8 @@
 ## Newsy : 
 
 >Our website offer you a place to share your thoughts,news, intrests  not only that but our comminety inclouds everyone even children have a apportunity to share thier creteive bed time stories  it's for your children to share their gentel thoughts with everyone in our app as a bed time stories with imegaes of thier drowings 
-  
+
+🔗 Demo: [Watch the demo on YouTube](https://www.youtube.com/watch?v=f-DA-YikVqQ)
 
 ## How to get started 
 >npm install
